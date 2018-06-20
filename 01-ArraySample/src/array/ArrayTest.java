@@ -12,7 +12,7 @@ public class ArrayTest {
 
 	public static void main(String[] args) {
 		
-		int[] numbers = new int[20];
+		int[] numbers = new int[200];
 		
 		// 전통적인 방식의 for구문 출력
 		for (int i = 0; i < numbers.length; i++) {
